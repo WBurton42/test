@@ -2,5 +2,5 @@
 ##Ingredients
 * avacodo
 * salt
-*lemon
+* lime
 ##Reciepe
