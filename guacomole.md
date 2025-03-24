@@ -1,4 +1,6 @@
 #Guacomole
-##Ingrediants
-
+##Ingredients
+* avacodo
+* salt
+*lemon
 ##Reciepe
