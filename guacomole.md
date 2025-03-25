@@ -4,4 +4,4 @@
 * salt
 * lime
 ##Reciepe
-* Put avacado in bowl
+* put three avacados into big bowl
